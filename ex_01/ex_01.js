@@ -1,0 +1,2 @@
+db.adminCommand('listDatabases')
+

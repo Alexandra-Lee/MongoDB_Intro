@@ -1,2 +1,2 @@
 db = db.getSiblingDB('webac')
-db.getCollectionNames()
+db.listCollections();
